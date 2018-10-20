@@ -24,5 +24,5 @@ Structure of a basic HTML file:
 ```
 #### More Information:
 <!-- Please add any articles you think might be helpful to read before writing the article -->
-
+The <!doctype html> is no longer needed with HTML5, however it is best practice to still include it. They doctype portion is a declaration to the web page, telling the browser what kind of document it is dealing with.
 
